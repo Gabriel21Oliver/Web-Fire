@@ -27,8 +27,7 @@ Projeto em desenvolvimento na UC Sistema e Segurança Computacional
 # Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
-* [Requisitos Funcionais](#requisitos-funcionais)
-* [Tecnologias Usadas](#tecnologias-usadas)
+
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
@@ -40,11 +39,8 @@ Projeto em desenvolvimento na UC Sistema e Segurança Computacional
 
 #Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Word](https://office.live.com/start/word.aspx?WT.mc_id=016_Chrome_Web_Store_App_Word_1)
+-
 
 
 
@@ -70,10 +66,6 @@ Projeto em desenvolvimento na UC Sistema e Segurança Computacional
 - [x] **formalização do Comtrato**
 - [x] **Cadastramento da Biometria**
 
-#Tecnologias Usadas
-
-- [Palavra]
-
 # Contribuição
 
 Leia o arquivo [CONTRIBUTING.md](Contributing.md)
@@ -88,4 +80,4 @@ Leia o arquivo [CONTRIBUTING.md](Contributing.md)
 Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](License.md) para mais detalhes.
 
 # Agradecimentos
-Agradecimento a toda equipe que 
+Agradecimento a toda equipe que  colaborou com a criação  Ellen Guimarães, Camilly Vitoria , Rayssa.
