@@ -92,6 +92,10 @@ Leia o arquivo [CONTRIBUTING.md](Contributing.md)
 
 [💻Ellen](https://github.com/EllenGui)
 
+[💻Rayssa](https://github.com/Rayssa046)
+
+
+
 
 # Licença
 
