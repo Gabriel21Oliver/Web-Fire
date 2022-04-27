@@ -94,6 +94,10 @@ Leia o arquivo [CONTRIBUTING.md](Contributing.md)
 
 [💻Rayssa](https://github.com/Rayssa046)
 
+[💻Camilly](https://github.com/Camilly-San)
+
+
+
 
 
 
